@@ -1,0 +1,139 @@
+# CaringIQ – You’ve Been Caring Without Help Long Enough
+ 
+**Caring for a parent shouldn’t mean losing yourself.** 
+CaringIQ gives you the clarity, calm, and coordination you’ve been missing—with a powerful, easy-to-use AI assistant named Cari.
+ 
+---
+ 
+## 💙 Finally, Support for the Supporters
+ 
+You’re not just managing tasks. 
+You’re managing people. Emotions. Schedules. Medications. Bills. Conflicts. Crises. 
+ 
+**CaringIQ gives you the support system you wish existed.** 
+ 
+Built for adult children and family caregivers, CaringIQ connects your care circle, organizes your chaos, and helps you get everything done—without carrying the whole load alone.
+ 
+---
+ 
+## 👋 Meet Cari — Your Intelligent Care Companion
+ 
+Cari is your personal caregiving assistant. She’s not just AI. She’s *always there*—ready to help, remind, coordinate, and think for you when you’re too tired to think straight.
+ 
+✅ You can **talk to Cari** (or type) to ask anything 
+✅ You can assign tasks or reminders to others in your care circle 
+✅ She suggests ideas, catches what you missed, and keeps everyone aligned 
+✅ She tracks meds, appointments, notes, files, and more—so you don’t have to 
+ 
+> *“It’s like having a second brain. Cari remembers everything, gently reminds everyone, and helps me stay sane.”* 
+> — **Harriet W., Daughter + Care Coordinator**
+ 
+---
+ 
+## 💡 What Makes CaringIQ So Powerful
+ 
+We go way beyond ChatGPT or any AI assistant you've seen before. 
+Cari is trained for one thing: **caregiving intelligence.**
+ 
+| Feature | ChatGPT | CaringIQ |
+|--------|---------|----------|
+| Personalized to your family’s care situation | ❌ | ✅ |
+| Shared dashboard for the whole care circle | ❌ | ✅ |
+| Automated reminders, nudges, and role-based tasks | ❌ | ✅ |
+| Document uploads + medical/legal/financial organizer | ❌ | ✅ |
+| Real-time photo, video, and text updates from caregivers | ❌ | ✅ |
+| Voice-enabled conversations + emotional support | ❌ | ✅ |
+ 
+---
+ 
+## 👪 Built for Every Care Circle
+ 
+Whether you're the lead caregiver, a sibling, a hired aide, or a friend helping out—CaringIQ supports the **entire care circle.**
+ 
+- **Care Coordinator** – usually an adult child who invites others, assigns roles, and oversees the plan 
+- **Paid or unpaid caregivers** – who give updates, upload photos, complete tasks, and stay aligned 
+- **Friends and family** – who want to help, but need nudges and clear assignments 
+ 
+> *“I finally feel like I’m not alone. I use Cari daily, and my sister and mom’s aide use it too. It’s simple but really smart.”* 
+> — **Karen M., Family Caregiver in Ohio**
+ 
+---
+ 
+## 📈 A Massive, Growing Need
+ 
+Caregiving isn’t niche—it’s a tidal wave.
+ 
+- **53+ million** U.S. adults provide unpaid care for loved ones 
+- **75%** say it’s emotionally overwhelming 
+- **$600 billion** in unpaid care is delivered annually in the U.S. 
+- Most care coordinators are **adult daughters aged 45–65** 
+- Globally, aging populations are exploding—this need is *everywhere* 
+ 
+Yet there is **no single platform** that makes caregiving organized, intelligent, and emotionally supported. Until now.
+ 
+---
+ 
+## 🌍 Who CaringIQ Is For
+ 
+🧠 **Potential users** – Adult children managing care for aging parents. Get support, stop drowning.
+ 
+💰 **Investors** – A massive, underserved market with a daily-use product and a data moat.
+ 
+🤝 **Partners & Channels** – Care.com, AARP, CCRC communities, health systems, home care agencies.
+ 
+🚀 **Talent & Vendors** – Help us scale. We’re building a meaningful, modern caregiving platform.
+ 
+---
+ 
+## ✨ Why CaringIQ Is Different
+ 
+- **Purpose-built**: We aren’t a generic LLM wrapper. We’re designed *only* for caregiving.
+- **Emotionally intelligent**: Cari understands tone, urgency, grief, burnout, and care complexity.
+- **Multi-user smart**: Works beautifully across caregivers, siblings, aides, and friends.
+- **Proactive and personalized**: Cari doesn’t just respond—she *recommends*, *reminds*, and *nudges*.
+- **Simple to use**: No learning curve. If you can use text or voice, you can use CaringIQ.
+ 
+---
+ 
+## 📬 Join the Waitlist Today
+ 
+We’re launching soon—and spots are limited.
+ 
+**👉 [Join the Waitlist](#waitlist-form)** 
+You’ll get early access to Cari and help shape the future of caregiving.
+ 
+---
+ 
+## 💌 Want to Reach Out?
+ 
+We’d love to hear from you. Whether you’re:
+ 
+- A potential **investor**, **partner**, or **collaborator**
+- A caregiver looking to help shape our platform
+- A team member excited to join the mission
+ 
+**[Contact Us](#contact-form)** — Share your name, email, and why you’re reaching out. We’ll respond quickly and personally.
+ 
+---
+ 
+## 👋 CaringIQ is Here to Help
+ 
+Caregiving shouldn’t feel like a second full-time job with no support.
+ 
+**CaringIQ gives you your time, clarity, and peace of mind back.**
+ 
+You’ve been doing it alone long enough. 
+Let Cari help you carry the load.
+ 
+---
+ 
+<!-- === Waitlist Form Placeholder === -->
+<div id="waitlist-form">
+  <!-- Embed waitlist form here -->
+</div>
+ 
+<!-- === Contact Form Placeholder === -->
+<div id="contact-form">
+  <!-- Embed contact form asking for: Name, Email, Reason for Reaching Out -->
+</div>
+ 

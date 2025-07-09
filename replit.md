@@ -108,10 +108,17 @@ Preferred communication style: Simple, everyday language.
 - Shared TypeScript configuration for consistent types
 
 ### Production Build
-- Frontend: Vite builds to `dist/public/`
-- Backend: ESBuild bundles server to `dist/index.js`
+- Frontend: Vite builds to `client/dist/`
+- Backend: Serverless functions in `api/` directory for Vercel deployment
 - Database: PostgreSQL via Neon serverless
 - Environment: DATABASE_URL required for production
+
+### Vercel Deployment (Updated July 9, 2025)
+- Fixed 404 deployment error by restructuring API endpoints
+- Created `api/index.ts` with proper Vercel serverless function structure
+- Updated `vercel.json` with correct build and routing configuration
+- Added `@vercel/node` dependency for Vercel types
+- Generated deployment-ready archive: `caringiq-project-vercel.tar.gz`
 
 ### Database Management
 - Drizzle migrations stored in `./migrations/`
